@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer / Web Developer.
 --------------------------------
 
-Web developer with React, and then transitioned into DevOps and Cloud
+Web developer with ReactJS, and now fully transitioned into DevOps and Cloud
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://t.co/EHKZSWjlMh](http://https://t.co/EHKZSWjlMh)
